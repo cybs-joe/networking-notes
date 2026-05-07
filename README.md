@@ -11,6 +11,8 @@
 
 ---
 
+## I also do recommend following a course when learning nwtworks cause this notes doesn't contain each single detail!.
+
 ## Lecture 1 — Network Devices
 
 
